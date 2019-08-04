@@ -1,2 +1,3 @@
 name: Chase Thomas, QA Engineer @ Workday
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
